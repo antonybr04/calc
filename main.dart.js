@@ -1,0 +1,1 @@
+// Código JavaScript gerado pelo Flutter Web (simulado)
